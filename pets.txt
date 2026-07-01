@@ -1,3 +1,4 @@
 Rabbit - Copper
 Dog - Homer 
 Dog - Frosty
+Dog - Lady Lucky
